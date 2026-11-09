@@ -1,1 +1,1 @@
-# Proof-of-Ollama-Gemma-4-ai-use
+# Proof-of-Ollama-olmo-3-ai-use
